@@ -1,13 +1,6 @@
 
 # Stock Search
 
-## Objective of Project 
-
-• Develop a todo app <br/>
-• Create an API for adding todo <br/>
-• Create an API for updating todo <br/>
-• Create an API for deleting todo <br/>
-• Create an API for listing todo <br/>
 
 ### Technologies
 Frontend :- Reactjs ,Redux ,Saga , axios
