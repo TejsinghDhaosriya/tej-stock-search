@@ -1,19 +1,11 @@
 
-# Todo : Task Management
+# Stock Search
 
-## Objective of Project 
-
-• Develop a todo app <br/>
-• Create an API for adding todo <br/>
-• Create an API for updating todo <br/>
-• Create an API for deleting todo <br/>
-• Create an API for listing todo <br/>
 
 ### Technologies
-Frontend :- Reactjs ,Redux ,Saga , loadsh,axios
+Frontend :- Reactjs ,Redux ,Saga , axios
 Backend  :- Django,Django-Rest-Framework, 
-Database :- sqlite3 for development env , postgresql for production env
-
+Database :- sqlite3 
 ### Deployment :-
       Frontend on Netlify
       Backend  on Heroku 
@@ -21,7 +13,7 @@ Database :- sqlite3 for development env , postgresql for production env
 ### Setup the Project locally :- <br/>
   ***Backend*** :-
    1. Clone the repo
-         git clone https://github.com/TejsinghDhaosriya/TODO-React-Django
+         git clone https://github.com/TejsinghDhaosriya/tej-stock-search
    2. Inside the Base Directory(inside the root of project) run pip install so that all dependencies of project get install 
          pip install -r requirements.txt
    3. Start the Backend
@@ -37,10 +29,8 @@ Database :- sqlite3 for development env , postgresql for production env
        will serve project at port 3000
        
 ### Inside the Project-Features :- 
-   -user can add , delete, update ,list todos .<br/>
    -dark mode feature<br/>
    -react-redux-saga arch in frontend<br/>
-   -dev and prod. env for backend
    
 
 #### Pls visit to above link for demo
@@ -49,8 +39,8 @@ Database :- sqlite3 for development env , postgresql for production env
 
 
 ##Project Link :-<br/>
-    [Frontend-Link to Project!](https://tej-todo-frontend.netlify.app/)<br/>
-    [Backend-Link to Project!](https://tej-todo-backend.herokuapp.com)
+    [Frontend-Link to Project!](https://tej-stock-search.netlify.app/)<br/>
+    [Backend-Link to Project!](https://tej-stock.herokuapp.com)
     
 # tej-stock-search
 # tej-stock-search
