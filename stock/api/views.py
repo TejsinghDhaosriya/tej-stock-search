@@ -15,4 +15,7 @@ class StockViewSet(ModelViewSet):
     def get_serializer_class(self):
             if self.action == 'retrieve':
                 return StockDetailSerializer
+            else:
+                return StockSerializer
+
             
